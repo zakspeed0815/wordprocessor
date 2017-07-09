@@ -18,5 +18,5 @@
             <enclosure url="https://github.com/zakspeed0815/Wordprocessor/raw/master/SparkleTest.zip" sparkle:version="901" sparkle:shortVersionString="9.01" length="5131302" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
-	</channel>
+</channel>
 </rss>
