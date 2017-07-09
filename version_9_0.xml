@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+       <title>SparkleTest</title>
+        <link>https://github.com/insidegui/WWDC/raw/master/Releases/appcast_v5.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+		
+		<item>
+            <title>Version 9.01</title>
+			<description><![CDATA[
+				<ul>
+					<li>Diverse Korrekturen in der Array-Erzeugung </li>
+					<li>Diverse Korrekturen in der Dictionary-Erzeugung</li>
+				</ul>
+						]]></description>
+            <pubDate>Thu, 7 Jul 2017 09:19:00 -0300</pubDate>
+            <enclosure url="https://baukasten-im.net/Release/SparkleTest.zip" sparkle:version="901" sparkle:shortVersionString="9.01" length="4343539" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+        </item>
+	</channel>
+</rss>
